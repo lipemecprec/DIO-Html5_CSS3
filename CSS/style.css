@@ -1,0 +1,50 @@
+body{
+  background: white;
+  margin: 0px;
+}
+
+nav {
+  margin: 5%;
+  list-style-position: inside;
+}
+
+h1 {
+  color: darkred;
+  font-family: monospace;
+  margin: 0;
+}
+
+h2 {
+  font-family: monospace;
+  color: darkred;
+}
+
+p {
+  font-size: 18px;
+}
+
+a {
+  font-size: 18px;
+}
+
+header, footer {
+  background-color: orange;
+  width: 100%;
+  margin: 0px;
+  padding: 5%;
+}
+
+img {
+  margin: 3%;
+  mix-blend-mode:  darken;
+  max-height: 300px;
+}
+
+.img_contato {
+  margin: 0px;
+  width: 30px;
+}
+
+section {
+  margin: 5%;
+}
